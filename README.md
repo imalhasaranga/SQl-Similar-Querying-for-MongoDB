@@ -1,7 +1,7 @@
 ## SQl Similar Querying for MongoDB
 
-This is a very Small attempt to implement easy way of writing MongoDb queries which are bit similar to SQl, in this way
-I feel developers will lot more be comfortable to write Queries quickly
+This is a very Small attempt to implement easy way of writing MongoDb queries, in this way
+I feel developers will be lot more comfortable to write Queries since they have to structure queries similar to Sql
 
 =
 
@@ -9,7 +9,6 @@ I feel developers will lot more be comfortable to write Queries quickly
 
 Mongo-java-driver.jar
 
-Please make sure that you have installed these before using the code
 
 =
 
