@@ -46,5 +46,5 @@ public class Demo {
 }
 ```
 
-### Please notify me if this is having any bus also I invite you to contribute
+##### let me know any suggestions, improvements
 
